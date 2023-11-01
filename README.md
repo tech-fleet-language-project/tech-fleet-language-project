@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+  <p>We want to close the talent gap by providing skill-building opportunities and a supportive community to those typically excluded from our industry.</p>
+
 <!---
-casa-areyto/casa-areyto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Fleet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
